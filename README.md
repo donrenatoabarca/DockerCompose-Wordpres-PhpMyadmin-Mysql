@@ -1,4 +1,4 @@
-# Wordpres-PhpMyadmin-Mysql
+# Wordpres-PhpMyadmin-Mysql en Docker-Compose
 Proyecto para levantar un servicio de wordpress
 
 
